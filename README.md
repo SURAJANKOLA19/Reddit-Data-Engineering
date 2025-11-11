@@ -1,3 +1,4 @@
+
 ---
 
 # 🚀 Reddit Data Engineering Pipeline
@@ -189,3 +190,7 @@ reddit-data-pipeline/
 ---
 
 
+
+---
+
+Would you like me to also create a **`requirements.txt`** and a **sample Airflow DAG (`reddit_dag.py`)** file to go with this README? That would make it a complete project starter template.
